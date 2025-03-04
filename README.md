@@ -1,4 +1,4 @@
-# DeepSeek | 中文官网、网页版入口、deepseek下载及使用指南~ 【2025/03/05 更新】     
+# DeepSeek | 中文官网、网页版入口、deepseek下载及使用指南~ 【2025/03/05 更新】    
 
 轻松使用 [**DeepSeek 网页版**](https://chat.yixiaai.com)，**快速稳定、不卡顿** 的使用体验，支持 **DeepSeek R1 满血版**~
 
