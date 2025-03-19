@@ -1,12 +1,14 @@
-# DeepSeek | 中文官网、网页版入口、deepseek下载及使用指南~ 【2025/03/19 更新】            
+# DeepSeek | 中文官网、网页版入口、deepseek下载及使用指南~ 【2025/03/20 更新】            
 
 轻松使用 [**DeepSeek 网页版**](https://chat.yixiaai.com)，**快速稳定、不卡顿** 的使用体验，支持 **DeepSeek R1 满血版**~
 
-本指南提供全面的 **DeepSeek 使用指南**，包括 [**DeepSeek 官网入口**](https://chat.deepseek.com)、[**DeepSeek 网页版**](https://chat.yixiaai.com)、[**DeepSeek 下载**](https://chat.yixiaai.com) 和 [**DeepSeek 平替网站**](https://chat.yixiaai.com) 等等~
+本指南提供全面的 **DeepSeek 使用指南**，包括 [**DeepSeek 官网入口**](https://chat.deepseek.com)、[**DeepSeek 网页版**](https://chat.lanjing.ai)、[**DeepSeek 下载**](https://chat.yixiaai.com) 和 [**DeepSeek 平替网站**](https://chat.lanjing.ai) 等等~
 
 **DeepSeek 官网入口**：[chat.deepseek.com](https://chat.deepseek.com)
 
 **🔥DeepSeek 高速稳定版**：[chat.yixiaai.com](https://chat.yixiaai.com)
+
+**🔥DeepSeek 全能版**：[chat.lanjing.ai](https://chat.lanjing.ai)
 
 ---
 
